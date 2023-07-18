@@ -1,0 +1,8 @@
+C:\Users\bt555\Desktop\otopark programı\otopark programı\bin\Debug\otopark programı.exe
+C:\Users\bt555\Desktop\otopark programı\otopark programı\bin\Debug\otopark programı.pdb
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark_programı.Form1.resources
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark_programı.Properties.Resources.resources
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark programı.csproj.GenerateResource.Cache
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark programı.exe
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark programı.pdb
+C:\Users\bt555\Desktop\otopark programı\otopark programı\obj\x86\Debug\otopark programı.csprojResolveAssemblyReference.cache

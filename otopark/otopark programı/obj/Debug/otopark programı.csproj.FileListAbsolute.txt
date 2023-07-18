@@ -1,0 +1,11 @@
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\bin\Debug\otopark programı.exe.config
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\bin\Debug\otopark programı.exe
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\bin\Debug\otopark programı.pdb
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\obj\Debug\otopark programı.csproj.AssemblyReference.cache
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\obj\Debug\otopark programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\obj\Debug\otopark_programı.Form1.resources
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\obj\Debug\otopark_programı.Properties.Resources.resources
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\obj\Debug\otopark programı.csproj.GenerateResource.cache
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\obj\Debug\otopark programı.csproj.CoreCompileInputs.cache
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\obj\Debug\otopark programı.exe
+C:\Users\nevar\OneDrive\Masaüstü\otopark\otopark programı\obj\Debug\otopark programı.pdb
